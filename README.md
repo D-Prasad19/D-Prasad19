@@ -17,10 +17,5 @@
 - 🔗 [Weather Data Analysis](https://github.com/D-Prasad19/Weather-Data-Analysis)
 - 🔗 [Instagram DB Clone](https://github.com/D-Prasad19/Instagram-DB-Clone)
 
-## 📈 GitHub Stats
-
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Prasad19&show_icons=true&theme=tokyonight)
-
----
 
 > "Code. Learn. Repeat." 💡
