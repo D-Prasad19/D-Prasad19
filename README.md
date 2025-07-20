@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Divyanshu Prasad!
 
-<!--
-**D-Prasad19/D-Prasad19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student  
+💻 Passionate about Full Stack Development & Data Science  
+🌱 Currently learning Machine Learning, Flask, and Streamlit  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/divyanshu-prasad-233439224) | [GitHub](https://github.com/D-Prasad19)
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python, Streamlit
+- HTML5, CSS3, JavaScript
+- SQL, MySQL, SQLite
+- Pandas, NumPy, Matplotlib
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔗 [Travel Recommendation System](https://github.com/D-Prasad19/Travel-Recommendation)
+- 🔗 [Weather Data Analysis](https://github.com/D-Prasad19/Weather-Data-Analysis)
+- 🔗 [Instagram DB Clone](https://github.com/D-Prasad19/Instagram-DB-Clone)
+
+## 📈 GitHub Stats
+
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Prasad19&show_icons=true&theme=tokyonight)
+
+---
+
+> "Code. Learn. Repeat." 💡
