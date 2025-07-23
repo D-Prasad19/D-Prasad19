@@ -9,7 +9,7 @@
 - Python, Streamlit
 - HTML5, CSS3, JavaScript
 - SQL, MySQL
-- Pandas, NumPy, Matplotlib
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 - Git & GitHub
 
 ## 📂 Projects
