@@ -10,6 +10,7 @@
 - HTML5, CSS3, JavaScript
 - SQL, MySQL
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- Power BI, Excel Dashboards
 - Git & GitHub
 
 ## 📂 Projects
