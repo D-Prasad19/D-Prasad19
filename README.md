@@ -17,7 +17,7 @@
 ---
 
 ## 📂 **Highlighted Projects**
-- 🌍 [**Travel Recommendation System**]([https://github.com/D-Prasad19/Travel-Recommendation](https://github.com/D-Prasad19/data-science--AI-projects/tree/main/Travel-Recommendation-System)) — Hybrid ML model with Streamlit UI for personalized travel suggestions.  
+- 🌍 [**Travel Recommendation System**]((https://github.com/D-Prasad19/data-science--AI-projects/tree/main/Travel-Recommendation-System)) — Hybrid ML model with Streamlit UI for personalized travel suggestions.  
 - 🌦 [**Weather Data Analysis**]([https://github.com/D-Prasad19/Weather-Data-Analysis](https://github.com/D-Prasad19/data-science--AI-projects/tree/main/Data%20analysis%20with%20Python%20Weather%20data%20Set)) — EDA & visualization of temperature and rainfall patterns.  
 - 📸 [**Instagram DB Clone**]([https://github.com/D-Prasad19/Instagram-DB-Clone](https://github.com/D-Prasad19/sql-data-analysis-projects/tree/main/Instagram_Clone)) — SQL-based schema design & complex query practice.  
 
