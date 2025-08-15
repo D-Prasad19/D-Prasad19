@@ -1,22 +1,26 @@
-# 👋 Hi, I'm Divyanshu Prasad!
+# 👋 Hey there, I’m **Divyanshu Prasad**  
 
-🎓 B.Tech CSE (AI) Student  
-💻 Passionate about Full Stack Python Development & Data Science  
-🌱 Currently learning Machine Learning, and Streamlit  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/divyanshu-prasad-233439224) | [GitHub](https://github.com/D-Prasad19)
+🎓 **B.Tech CSE (AI)** | Final-Year Student  
+💻 **Full Stack Python Developer** & **Data Science Enthusiast**  
+🌱 Currently exploring **Machine Learning** & **Streamlit Applications**  
+📫 Let’s connect: [LinkedIn](https://linkedin.com/in/divyanshu-prasad-233439224) | [GitHub](https://github.com/D-Prasad19)  
 
-## 🚀 Tech Stack
-- Python, Streamlit
-- HTML5, CSS3, JavaScript
-- SQL, MySQL
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- Power BI, Excel Dashboards
-- Git & GitHub
+---
 
-## 📂 Projects
-- 🔗 [Travel Recommendation System](https://github.com/D-Prasad19/Travel-Recommendation)
-- 🔗 [Weather Data Analysis](https://github.com/D-Prasad19/Weather-Data-Analysis)
-- 🔗 [Instagram DB Clone](https://github.com/D-Prasad19/Instagram-DB-Clone)
+## 🚀 **Tech Stack**
+- **Languages & Frameworks:** Python, HTML5, CSS3, JavaScript, Streamlit  
+- **Databases:** SQL, MySQL  
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Visualization & BI:** Power BI, Excel Dashboards  
+- **Version Control:** Git & GitHub  
 
+---
 
-> "Code. Learn. Repeat." 💡
+## 📂 **Highlighted Projects**
+- 🌍 [**Travel Recommendation System**](https://github.com/D-Prasad19/Travel-Recommendation) — Hybrid ML model with Streamlit UI for personalized travel suggestions.  
+- 🌦 [**Weather Data Analysis**](https://github.com/D-Prasad19/Weather-Data-Analysis) — EDA & visualization of temperature and rainfall patterns.  
+- 📸 [**Instagram DB Clone**](https://github.com/D-Prasad19/Instagram-DB-Clone) — SQL-based schema design & complex query practice.  
+
+---
+
+> _"Code. Learn. Repeat."_ 💡  
