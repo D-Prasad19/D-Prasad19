@@ -55,7 +55,7 @@
 - 📸 [Instagram DB Clone](https://github.com/D-Prasad19/sql-data-analysis-projects)  
   SQL schema design & advanced query practice.  
 
-- 🖥 [Portfolio Website](https://d-prasad19.github.io/portfolio-website/Portfolio.html)  
+- 🖥 [Portfolio Website](https://d-prasad19.github.io/portfolio-website/Portfolio.html)
   Personal site showcasing web development, Python, and data projects.  
 
 ---
