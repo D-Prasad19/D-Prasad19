@@ -90,9 +90,24 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-prasad)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/D-Prasad19)  
-📧 Email: **d6526prasad@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/divyanshu-prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Prasad19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:d6526prasad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:d6526prasad@gmail.com">d6526prasad@gmail.com</a> &nbsp;|&nbsp; 
+  📞 <strong>Phone:</strong> <a href="tel:+917218896526">+91 7218896526</a> &nbsp;|&nbsp; 
+  📍 <strong>Location:</strong> Pune, Maharashtra, India
+</p>
 ---
 ✨ *"Building projects that combine AI, Data, and Full-Stack development to solve real-world problems."*
