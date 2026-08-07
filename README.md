@@ -58,7 +58,7 @@
 
 - 📊 **[Analysis of Chemical Components](https://github.com/D-Prasad19/python--AI-ML-projects/tree/main/Cosmetic-Chemical-Analysis)** *Python, SQL, EDA, Data Visualization* Executed end-to-end data processing, cleaning, and parameter trend visualization for operational analytics.
 
-- 🖥️ **[Portfolio Website](https://github.com/D-Prasad19/portfolio-website)** Personal site showcasing web development, Python, and data analytics projects.
+- 🖥️ **[Portfolio Website](https://d-prasad19.github.io/portfolio-website/Portfolio.html)** Personal site showcasing web development, Python, and data analytics projects.
 
 ---
 
