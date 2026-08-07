@@ -50,15 +50,15 @@
 
 ## 🚀 Highlighted Projects
 
-- 🧳 **[Travel Recommendation System](https://github.com/D-Prasad19/travel-recommendation-system)** *Python, Scikit-Learn, Pandas, Streamlit* Engineered a personalized recommendation engine using content-based filtering and cosine similarity metrics, improving query match speed by 30%.
+- 🧳 **[Travel Recommendation System]([https://github.com/D-Prasad19/travel-recommendation-system](https://github.com/D-Prasad19/python--AI-ML-projects/tree/main/Travel-Recommendation-System))** *Python, Scikit-Learn, Pandas, Streamlit* Engineered a personalized recommendation engine using content-based filtering and cosine similarity metrics, improving query match speed by 30%.
 
-- 📰 **[Fake News Detection System](https://github.com/D-Prasad19/fake-news-detection)** *Python, NLP, Scikit-Learn, PassiveAggressive Classifier* Designed an NLP text classification pipeline using TF-IDF vectorization to identify misleading news with 85%+ accuracy.
+- 📰 **[Fake News Detection System]([https://github.com/D-Prasad19/fake-news-detection](https://github.com/D-Prasad19/python--AI-ML-projects/tree/main/fake-news-detection-main))** *Python, NLP, Scikit-Learn, PassiveAggressive Classifier* Designed an NLP text classification pipeline using TF-IDF vectorization to identify misleading news with 85%+ accuracy.
 
 - ✍️ **[Full-Stack Web Blog Application](https://github.com/D-Prasad19/django-react-blog)** *Python, Django, ReactJS, SQLite, Bootstrap* Built structured RESTful API endpoints and designed responsive frontend interfaces for seamless client-server interaction.
 
-- 📊 **[Analysis of Chemical Components](https://github.com/D-Prasad19/chemical-component-analysis)** *Python, SQL, EDA, Data Visualization* Executed end-to-end data processing, cleaning, and parameter trend visualization for operational analytics.
+- 📊 **[Analysis of Chemical Components]([https://github.com/D-Prasad19/python--AI-ML-projects/tree/main/Cosmetic-Chemical-Analysis](https://github.com/D-Prasad19/python--AI-ML-projects/tree/main/Cosmetic-Chemical-Analysis))** *Python, SQL, EDA, Data Visualization* Executed end-to-end data processing, cleaning, and parameter trend visualization for operational analytics.
 
-- 🖥️ **[Portfolio Website](https://d-prasad19.github.io/portfolio-website/Portfolio.html)** Personal site showcasing web development, Python, and data analytics projects.
+- 🖥️ **[Portfolio Website]([https://d-prasad19.github.io/portfolio-website/Portfolio.html](https://github.com/D-Prasad19/portfolio-website))** Personal site showcasing web development, Python, and data analytics projects.
 
 ---
 
