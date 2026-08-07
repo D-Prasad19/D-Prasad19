@@ -81,8 +81,10 @@
 
 ## 📊 GitHub Stats
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Prasad19&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Prasad19&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-Prasad19&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divyanshu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Prasad19&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
