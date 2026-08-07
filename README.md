@@ -109,5 +109,7 @@
   📞 <strong>Phone:</strong> <a href="tel:+917218896526">+91 7218896526</a> &nbsp;|&nbsp; 
   📍 <strong>Location:</strong> Pune, Maharashtra, India
 </p>
+
 ---
+
 ✨ *"Building projects that combine AI, Data, and Full-Stack development to solve real-world problems."*
